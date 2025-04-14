@@ -1,0 +1,12 @@
+{
+    "name": "Node.js starter",
+    "description": "Start a environment with Node.js 20 support",
+    "categories":
+    [
+        "Backend"
+    ],
+    "icon": "https://www.gstatic.com/monospace/231115/logo_nodejs.svg",
+    "publisher": "Lei Zhang",
+    "params":
+    []
+}
